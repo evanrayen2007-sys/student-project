@@ -1,0 +1,14 @@
+body{
+  font-family:Arial;
+  font-align:center;
+  background-color:lightblue;
+}
+h1{
+  color:darkblue;
+}
+h2{
+  color:green;
+}
+p{
+  font-size:18px;
+}
